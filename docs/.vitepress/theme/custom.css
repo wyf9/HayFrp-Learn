@@ -1,0 +1,9 @@
+:root {
+  --vp-c-brand-1: lightblue;
+  --vp-c-brand-2: pink;
+  --vp-c-brand-3: rgb(247, 93, 118);
+}
+
+.vp-doc a {
+  text-decoration: none;
+}
