@@ -1,9 +1,3 @@
----
-next:
-    text: '常见错误代码'
-    link: '/errcode'
----
-
 # HayFrp OPENAPI使用文档
 
 > 注意：在调用HayFrp OPENAPI时，请您务必加上标头Headers："waf: off"以绕过雷池防火墙.

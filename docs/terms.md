@@ -1,10 +1,3 @@
----
-next:
-    text: '隐私政策'
-    link: '/privacy-policy'
----
-
-
 # HayFrp 用户协议
 
 **最后修改时间：2025 年 1 月 30 日**
