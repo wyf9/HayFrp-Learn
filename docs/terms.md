@@ -87,7 +87,6 @@ HayFrp 团队可能会根据业务发展和法律法规的变化，对本用户�
 
 - **邮箱**：contact@hayfrp.com
 - **网站**：[https://www.hayfrp.com](https://www.hayfrp.com)
-- **镜像网站[中国大陆加速]**: [https://console.hayfrp.rcov.top](https://console.hayfrp.rcov.top)
 
 ## 七、法律声明
 

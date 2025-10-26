@@ -56,6 +56,20 @@ export default defineConfig({
               {
                 text: "HayFrp OPENAPI",
                 link: "api-doc",
+                items: [
+                  {
+                    text: "First - 用户账号",
+                    link: "api-doc#first-用户账号api-总计9个",
+                  },
+                  {
+                    text: "Second - 隧道",
+                    link: "api-doc#second-隧道-总计8个",
+                  },
+                  {
+                    text: "Third - 杂项",
+                    link: "api-doc#third-杂项-总计6个",
+                  },
+                ],
               },
               {
                 text: "HayFrp 错误代码",

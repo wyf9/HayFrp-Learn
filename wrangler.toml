@@ -1,0 +1,10 @@
+name = "hayfrp-learn"
+compatibility_date = "2025-03-25"
+
+[assets]
+directory = "./.vitepress/dist"
+
+[build]
+command = "pnpm run build"
+cwd = "./"
+watch_dir = "./docs"

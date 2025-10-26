@@ -19,7 +19,7 @@ hero:
 features:
   - title: 知识文档
     details: 这里，告诉你有关HayFrp的一切。
-    link: README
+    link: what
     linkText: 了解我们
   - title: 使用文档
     details: 这里，告诉你怎样用好HayFrp。
